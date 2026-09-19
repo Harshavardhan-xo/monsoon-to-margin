@@ -1,6 +1,12 @@
 # Monsoon-to-Margin
 ### Live Quick-Commerce Demand & Disruption Dashboard
 
+## 🚀 Live Dashboard
+
+**[Open the Monsoon-to-Margin live Streamlit dashboard ↗](https://harsha-monsoon-margin.streamlit.app)**
+
+Try the interactive dashboard directly in your browser. The GitHub repository contains the complete source code, while the Streamlit deployment is the live, interactive version for portfolio reviewers and hiring managers.
+
 > **How to use this document:** This is a complete build brief, not a short prompt.
 > Paste this entire file into ChatGPT as your first message and ask it to build
 > the project exactly as specified, file by file, in the order given in Section 11.
